@@ -1,0 +1,2 @@
+int16 motor_position
+int16 motor_speed

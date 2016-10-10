@@ -1,0 +1,8 @@
+float32 dc_motor_position
+float32 dc_motor_speed
+float32 servo_position
+float32 stepper_motor_position
+float32 temperature
+float32 light_gate_state
+float32 ultrasonic_distance
+float32 ir_distance

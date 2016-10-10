@@ -1,0 +1,8 @@
+int16 dc_motor_position
+int16 dc_motor_speed
+int16 servo_position
+int16 stepper_motor_position
+int16 temperature
+int16 light_gate_state
+int16 ultrasonic_distance
+int16 ir_distance
