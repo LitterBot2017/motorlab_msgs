@@ -48,6 +48,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   MotorLab_Arduino.msg
+  MotorLab_Arduino_Translation.msg
   MotorLab_PC.msg
 )
 
