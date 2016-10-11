@@ -6,3 +6,4 @@ float32 temperature
 float32 light_gate_state
 float32 ultrasonic_distance
 float32 ir_distance
+float32 button_state

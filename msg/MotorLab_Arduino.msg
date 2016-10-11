@@ -6,3 +6,4 @@ int16 temperature
 int16 light_gate_state
 int16 ultrasonic_distance
 int16 ir_distance
+int16 button_state
