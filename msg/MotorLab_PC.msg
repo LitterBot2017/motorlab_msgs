@@ -1,2 +1,8 @@
-int16 motor_position
-int16 motor_speed
+int16 stepper_angle
+int16 motor_position_checked
+int16 motor_speed_checked
+int16 servo_checked
+int16 thermistor_checked
+int16 light_gate_checked
+int16 ir_checked
+int16 ultra_checked
