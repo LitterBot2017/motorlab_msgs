@@ -6,3 +6,5 @@ int16 thermistor_checked
 int16 light_gate_checked
 int16 ir_checked
 int16 ultra_checked
+int16 motor_velocity
+int16 motor_angle
